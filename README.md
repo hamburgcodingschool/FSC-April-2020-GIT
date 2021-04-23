@@ -1,6 +1,25 @@
 # Git & Github
 ## Full Stack Course - April 2021
 
+
+### Initial Setup and Configuration
+
+1. Download and Install: https://git-scm.com/downloads
+
+2. Configure Default Editor (optional)
+
+```
+git config --global core.editor "vim"
+```
+
+3. Configure User Identity
+```
+git config --global user.name "Paul Anton"
+git config --global user.email "paul.antton@gmail.com"
+```
+
+
+
 ### 📄 Resources
 
 - [Lesson Summary](https://...)
