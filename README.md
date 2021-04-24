@@ -1,5 +1,5 @@
 # Git & Github
-## Full Stack Course - April 2021
+## Full Stack Course - April 2021 :)
 
 
 ### Initial Setup and Configuration
